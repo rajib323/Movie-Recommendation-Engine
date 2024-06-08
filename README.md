@@ -24,23 +24,13 @@ This project is a Movie Recommendation System built using Python and Streamlit. 
 
 To run this Movie Recommendation System locally, follow these steps:
 
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub:  `git clone <repo_url>`
 
-git clone <repo_url>
+2. Navigate to the project directory:  `cd movie-recommendation-engine`
 
-2. Navigate to the project directory:
+3. Install the required dependencies:  `pip install -r requirements.txt`
 
-cd movie-recommendation-engine
-
-3. Install the required dependencies:
-
-pip install -r requirements.txt
-
-
-4. Run the Streamlit app:
-
-streamlit run app.py
-
+4. Run the Streamlit app:  `streamlit run app.py`
 
 5. Access the application in your web browser at `http://localhost:8501`.
 
@@ -62,19 +52,13 @@ streamlit run app.py
 
 ## Credits
 
-This project was developed by [Your Name] and is distributed under the [License Name] license. The movie data used in this project is sourced from [Data Source], and the recommendation algorithms are implemented using Python libraries such as [Library Name].
+This project was developed by [Rajib Lochan Nandi]. The movie data used in this project has sourced data from [Kaggle Dataset], and the recommendation algorithms are implemented using Python libraries such as [Pandas, Numpy & Cosing_similarity].
 
 ---
 
 ## Feedback
 
-We welcome any feedback or suggestions for improving this Movie Recommendation System. Please feel free to [contact us](mailto:your.email@example.com) with your thoughts or contributions.
-
----
-
-## License
-
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
+We welcome any feedback or suggestions for improving this Movie Recommendation System. Please feel free to [contact me](mailto:adityanandi550@gmail.com)/[call here](tel:+916291110614) with your thoughts or contributions.
 
 ---
 
